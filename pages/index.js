@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="ayyyye it's hau" />
         <p className="description">
-          holla at yo girl <a href="mailto:hello@hautran.com">here</a>
+          holla at yo girl
         </p>
       </main>
 
