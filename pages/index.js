@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="ayyyye it's hau" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          holla at yo girl <a href="mailto:hello@hautran.com">here</a>
         </p>
       </main>
 
